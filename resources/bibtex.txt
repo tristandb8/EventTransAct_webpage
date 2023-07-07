@@ -1,0 +1,6 @@
+@inproceedings{timebalance,
+  title={TimeBalance: Temporally-Invariant and Temporally-Distinctive Video Representations for Semi-Supervised Action Recognition},
+  author={Dave, Ishan Rajendrakumar and Rizve, Mamshad Nayeem and Chen, Chen and Shah, Mubarak},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2023}
+}
