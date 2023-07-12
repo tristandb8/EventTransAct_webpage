@@ -1,6 +1,6 @@
 ## <b>Webpage template</b>
 
-This webpage template was made for a [colorful ECCV paper](http://tristandb8.github.io/colorization/). See how the webpage looks [here](https://tristandb8.github.io/EventTransAct_webpage).
+This webpage template was made for a [colorful ECCV paper](http://tristandb8.github.io/colorization/). See how the webpage looks [here](tristandb8.github.io/EventTransAct_webpage).
 
 To use this template, clone the repo:
 
