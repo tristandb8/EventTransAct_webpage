@@ -216,7 +216,7 @@
         <!-- <h3 class="title is-4">Interpolating states</h3> -->
         <div class="content has-text-justified">
           <p>
-            We employed a Video Transformer Network (VTN) architecture [17], which expands an image encoder F with a transformer E that uses frame embeddings as input tokens. Each event-frame x(i) t is passed through a spatial-encoder F(·) to extract spatial features, which are then processed by a transformer-based LongFormer module E(·), augmented with positional embeddings (PE) and a [CLS] token, to learn global temporal dependencies. The [CLS] token output is then classified by head G(·). The model is trained using both cross-entropy loss and a proposed event contrastive loss.
+            We employed a Video Transformer Network (VTN) architecture [17], which expands an image encoder F with a transformer E that uses frame embeddings as input tokens. Each event-frame x(i) is passed through a spatial-encoder F(·) to extract spatial features, which are then processed by a transformer-based LongFormer module E(·), augmented with positional embeddings (PE) and a [CLS] token, to learn global temporal dependencies. The [CLS] token output is then classified by head G(·). The model is trained using both cross-entropy loss and a proposed event contrastive loss.
           </p>
         </div>
         <!-- <div class="columns is-hcentered interpolation-panel"> -->
